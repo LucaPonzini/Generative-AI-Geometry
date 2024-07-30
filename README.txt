@@ -22,8 +22,8 @@ Installation
 
 1. Clone the repository or download the source code.
 
-    git clone https://github.com/yourusername/generative-ai-procedural-geometry.git
-    cd generative-ai-procedural-geometry
+    git clone https://github.com/yourusername/Generative-AI-Geometry.git
+    cd Generative-AI-Geometry
 
 2. Create a virtual environment (optional but recommended).
 
@@ -48,9 +48,9 @@ Usage
 Project Structure
 -----------------
 
-generative_ai_geometry/
+Generative-AI-Geometry/
 ├── app.py                 # Main Flask application
-├── model.py               # (Optional) Generative model (not used in the current version)
+├── model.py               # Generative model (not used in the current version)
 ├── templates/
 │   └── index.html         # HTML template for the web page
 └── README.txt             # Project README file
